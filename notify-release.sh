@@ -7,7 +7,7 @@ INPUT_RELEASE_VERSION="$3"
 INPUT_RELEASE_SHA="$4"
 
 # Config
-BASE_URL="https://5nw9rm117f.execute-api.us-east-1.amazonaws.com"
+BASE_URL="https://uvvuveeuha.us-east-1.awsapprunner.com"
 
 # Break up the product & integration slugs
 PRODUCT="$(echo "$INPUT_INTEGRATION_IDENTIFIER" | sed 's/^\([^/]*\)\/\(.*\)$/\1/')"
